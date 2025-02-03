@@ -64,12 +64,22 @@ ul{
 
 /* sfondi */
 
+
 header{
 background-image: url(../img/jumbo.png) ;
 background-repeat: no-repeat;
-background-size: auto;
+background-size: 100%;
 }
 
+.bg-foto{
+    background-image: url(../img/stars.svg) ;
+    background-repeat: no-repeat;
+    background-size: auto;
+    }
+
+.bg-celeste{
+    background-color: #7288da;
+}
 .bg-blu{
     background-color: #00008b;
 }
