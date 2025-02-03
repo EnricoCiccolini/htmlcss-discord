@@ -196,6 +196,12 @@ hr{
         align-items: center;
      }
 
+
+/* altezza header */
+header {
+    height: 600px;
+}
+
     
      
  /* largezza*/
