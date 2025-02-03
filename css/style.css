@@ -60,6 +60,9 @@ ul{
 .testo-bianco {
     color: #ffffff;
 }
+.testo-celeste{
+    color: #7288da;
+}
 
 
 /* sfondi */
@@ -189,13 +192,3 @@ hr{
     padding: 5px ;
 }
 
-
-/* da rimuovere */
-
-.altezza-prov{
-    height:490px;
-}
-
-.altezza-prov2{
-    height: 800px;
-}
