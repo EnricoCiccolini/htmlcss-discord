@@ -64,6 +64,9 @@ ul{
 }
 
 /*padding */
+li{
+    padding: 10px;
+}
 .pd50{
     padding: 50px 0;
 
@@ -159,7 +162,8 @@ background-size: 100%;
 }
 
 
-/*bordo*/
+/*bordo */
+/*
 hr{
     height: 2px;
 }
@@ -169,6 +173,11 @@ hr{
 .bordo-bianco{
     border: dotted white;
 }
+*/
+.bordo-basso{
+    border-bottom: 2px solid #7288da ;
+}
+
 /*flex*/
 
     .flex{
