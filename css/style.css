@@ -1,0 +1,152 @@
+*{
+border: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+
+
+
+/* dimensione */
+.contenitore {
+    width: 1100px;
+    margin: 0 auto;
+   
+    text-align: center;
+    
+}
+.contenitore-piccolo{
+    width: 900px;
+    margin: 0 auto;
+    
+    text-align: center;
+}
+
+/*padding */
+.pd50{
+    padding: 50px 0;
+
+}
+.pd10{
+    padding: 10px 0;
+
+}
+.pdt-05{
+    padding-top: 10px;
+}
+.pdb-15{
+    padding-bottom: 20px;
+}
+
+/* colori */
+
+header{
+background-image: url(../img/jumbo.png) ;
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.bg-blu{
+    background-color: #00008b;
+}
+
+.bg-arancione{
+    background-color: #daa520;
+}
+
+.bg-arancione{
+    background-color: #daa520;
+}
+.bg-viola{
+    background-color: #ee82ee;
+}
+
+.bg-azzurro{
+    background-color: #1e90ff;
+}
+
+.bg-rosa{
+    background-color: #ffc0cb;
+}
+
+.bg-griggio{
+    background-color: #d3d3d3;
+}
+
+.bg-nero {
+    background-color: #23272a;
+}
+
+.bg-rosa-chiaro{
+    background-color: #f08080;
+}
+.bg-verde{
+    background-color: #228b22 ;
+}
+.bg-acqua{
+    background-color: #20b2aa;
+}
+.bg-marina{
+    background-color: #7fffd4;
+}
+
+
+/*bordo*/
+hr{
+    height: 2px;
+}
+.bordo{
+    border: dotted black;
+}
+.bordo-bianco{
+    border: dotted white;
+}
+/*flex*/
+
+    .flex{
+
+    display: flex;
+
+       }
+
+     .flex-reverse  {
+        flex-direction: row-reverse;
+     }
+     .justify{
+        justify-content: space-between;
+     }
+
+     
+/* largezza*/
+.wh360{
+    width: 360px;
+}
+
+.wh25{
+    width: 25%;
+
+}
+
+.wh40{
+    width: 40%;
+}
+.wh50{
+    width: 50%;
+
+}
+
+.wh60{
+    width: 65%;
+}
+
+
+/* da rimuovere */
+
+.altezza-prov{
+    height:490px;
+}
+
+.altezza-prov2{
+    height: 800px;
+}
