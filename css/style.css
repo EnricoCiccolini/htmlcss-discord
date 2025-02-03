@@ -4,6 +4,13 @@ padding: 0;
 box-sizing: border-box;}
 
 
+
+/* default bottoni*/
+
+button{
+    all: unset;
+}
+
 /*allineamento*/
 .text-left{
     text-align: left;
@@ -106,6 +113,9 @@ background-size: auto;
 .bg-marina{
     background-color: #7fffd4;
 }
+.bg-bianco{
+    background-color: #ffffff;
+}
 
 
 /*bordo*/
@@ -161,7 +171,7 @@ hr{
 
     border: none;
     border-radius: 10px;
-    
+    padding: 5px ;
 }
 
 
