@@ -3,6 +3,11 @@ border: 0;
 padding: 0;
 box-sizing: border-box;}
 
+/* stile font paggina */
+* {
+   font-family:Helvetica, Arial, sans-serif;
+}
+
 
 
 /* default bottoni*/
@@ -11,6 +16,24 @@ button{
     all: unset;
 }
 
+/* testo */
+h5{
+    font-size: 22px;
+}
+h2{
+    font-size: 50px;
+}
+.p-head{
+    font-size: 26px;
+}
+p{
+    font-size: 20px;
+    
+}
+button{
+    font-size: 16px;
+    font-weight: bold
+ ;}
 /*allineamento*/
 .text-left{
     text-align: left;
@@ -77,7 +100,7 @@ background-size: 100%;
 .bg-foto{
     background-image: url(../img/stars.svg) ;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100%;
     }
 
 .bg-celeste{
@@ -160,9 +183,12 @@ hr{
      .justify{
         justify-content: space-between;
      }
-
      
-/* largezza*/
+
+    
+     
+ /* largezza*/
+
 .wh360{
     width: 360px;
 }
@@ -188,7 +214,7 @@ hr{
 .bottone{
 
     border: none;
-    border-radius: 10px;
-    padding: 5px ;
+    border-radius: 30px;
+    padding: 15px;
 }
 
