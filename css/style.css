@@ -118,6 +118,11 @@ background-size: auto;
 }
 
 
+.bg-bedje{
+    background-color: #f6f6f6;
+}
+
+
 /*bordo*/
 hr{
     height: 2px;
